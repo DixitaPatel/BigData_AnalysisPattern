@@ -16,6 +16,7 @@ where <LIB> is:
 4.	python-dateutil
 
 **Final analysis**
+
 Found which sighting records might be results of phenomena like meteorite shower, influence of Sci-Fi movie on thoughts,
 flight flying mistaken as UFO or literacy rates of people
 
