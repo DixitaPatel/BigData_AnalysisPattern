@@ -1,4 +1,5 @@
 **Task**
+
 The goal of this project was to merge different (may be) relevant dataset to UFO sightings dataset. After merging we were required to performed analysis of UFO sightings and inferred unintended consequences using clustering and content similarity.
 Extracted correlation features and compared similarities between datasets using Edit, Cosine and Jaccard distance.
 
